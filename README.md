@@ -178,10 +178,12 @@
 </p>
 
 ---
-
 ## 🏅 **LeetCode Stats**
 <p align="center">
-  <a href="https://leetcode.com/u/srinidell2002/"><img src="https://leetcard.jacoblin.cool/srinidell2002?theme=dark&font=Karma&ext=heatmap" /></a>
+  <!-- Primary LeetCode Profile -->
+  <a href="https://leetcode.com/u/srinivas_bn/">
+    <img src="https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap" />
+  </a>
 </p>
 
 ---

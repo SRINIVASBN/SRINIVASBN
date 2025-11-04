@@ -24,7 +24,8 @@
   <li><h3>CSE (AI & ML) Student at RNS Institute of Technology</h3></li>
   <li><h3>Learning DSA, System Design, MERN Advanced</h3></li>
   <li><h3>🔗 Email: 1rn22ai124.srinivasbn@rnsit.ac.in</h3></li>
-  <li><h3>🔗 LeetCode Profile: <a href="https://leetcode.com/u/srinidell2002/">srinidell2002</a></h3></li>
+  <li><h3>🔗 LeetCode Profile: <a href="https://leetcode.com/u/srinivas_bn/">srinivas_bn</a></h3></li>
+
 </ul>
 
 </td>

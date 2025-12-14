@@ -35,6 +35,46 @@ I’m open to **internships and full-time opportunities** where I can learn, con
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,javascript,html,css,mysql,git,github,vscode,postman&theme=light" />
 </p>
+## 🔑 Core Skills
+
+### MERN Stack
+<p>
+  <img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql" />
+</p>
+
+### Core Subjects
+<p>
+  <img src="https://img.shields.io/badge/DBMS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-purple?style=for-the-badge" />
+</p>
+
+### Cloud & AI
+<p>
+  <img src="https://img.shields.io/badge/Azure%20AI-blue?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/Google%20Generative%20AI-green?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/ML%20Concepts-yellow?style=for-the-badge" />
+</p>
+
+### Version Control & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+</p>
+
 
 ---
 

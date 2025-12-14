@@ -31,7 +31,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/SRINIVASBN/SRINIVAS-BN/main/srini.png" width="50%" height="50%" />
+
 
 </td>
 </tr>

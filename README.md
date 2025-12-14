@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 <ul>
   <li><h3>Full Stack MERN Developer</h3></li>

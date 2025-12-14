@@ -10,29 +10,35 @@
 
 ---
 
-<!-- About Me Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=435&lines=About+Me+👨‍💻" />
-</div>
+## 👨‍💻 About Me
 
-<ul>
-  <li><h3>Full Stack MERN Developer</h3></li>
-  <li><h3>CSE (AI & ML) Student at RNS Institute of Technology</h3></li>
-  <li><h3>Learning DSA, System Design, MERN Advanced</h3></li>
-  <li><h3>🔗 Email: srinidell2002@gmail.com</h3></li>
-  <li><h3>🔗 LeetCode Profile: <a href="https://leetcode.com/u/srinivas_bn/">Leetcode@Srinivas_B_N</a></h3></li>
-</ul>
+I’m **Srinivas B N**, a **Full Stack MERN Developer** and **CSE (AI & ML) undergraduate** at **RNS Institute of Technology (VTU)**, graduating in **2026**.
+
+I enjoy building **end-to-end web applications**, designing **RESTful APIs**, and working with **databases and backend logic**. Alongside full-stack development, I actively explore **AI/ML and applied deep learning**, focusing on **real-world problem solving** rather than theory alone.
+
+Currently, I’m strengthening my **Java + DSA**, **system design fundamentals**, and **advanced MERN stack concepts** to prepare for **software engineering roles and internships**. I’m particularly interested in **backend development, scalable systems, and AI-enabled products**.
+
+I’m open to **internships and full-time opportunities** where I can learn, contribute, and grow as a software engineer.
 
 ---
 
-## 🛠 **Tech Stack**
+## 🔗 Connect With Me
+
+- 📧 **Email:** srinidell2002@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/srinivas-bn-8771112a8  
+- 🧠 **LeetCode:** https://leetcode.com/u/srinivas_bn/  
+- 💻 **GitHub:** https://github.com/SRINIVASBN  
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,javascript,html,css,mysql,git,github,vscode,postman&theme=light" />
 </p>
 
 ---
 
-## 🔑 **Core Skills**
+## 🔑 Core Skills
 
 ### MERN Stack
 <p>
@@ -74,29 +80,63 @@
 
 ---
 
-## 🏅 **Certifications & Achievements**
+## 🚀 Projects
+
+### 🔹 Job Screening AI
+**Tech:** Python, NLP, Machine Learning  
+An AI-based system that analyzes resumes and job descriptions to automate candidate screening using NLP techniques and ML models, improving shortlisting efficiency.
+
+🔗 https://github.com/SRINIVASBN/job-screening-ai
+
+---
+
+### 🔹 Dynamic Weather App
+**Tech:** React, JavaScript, Weather API  
+A responsive web application that fetches real-time weather data and displays location-based forecasts with a clean UI.
+
+🔗 https://github.com/SRINIVASBN/Dynamic-Weather-App
+
+---
+
+### 🔹 Stock Market Dashboard
+**Tech:** JavaScript, APIs, Data Visualization  
+A stock tracking application that displays live market data, price trends, and basic analytics for selected stocks.
+
+🔗 https://github.com/SRINIVASBN/Stock-Market
+
+---
+
+### 🔹 Portfolio Website
+**Tech:** React, HTML, CSS  
+A personal portfolio website showcasing my projects, skills, certifications, and contact information.
+
+🔗 https://github.com/SRINIVASBN/portfolio-
+
+---
+
+## 🏅 Certifications & Achievements
+
 ### **Oracle**
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle_Certified_Foundations_Associate-Completed-red?style=for-the-badge&logo=oracle" />
   <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025_AI_Foundations_Associate-Completed-red?style=for-the-badge&logo=oracle" />
 </p>
 
-
-### Microsoft
+### **Microsoft**
 <p align="center">
   <img src="https://img.shields.io/badge/Azure_AI_Services-Completed-1abc9c?style=for-the-badge&logo=microsoftazure" />
   <img src="https://img.shields.io/badge/Generative_AI_on_Azure-Completed-1abc9c?style=for-the-badge&logo=microsoftazure" />
   <img src="https://img.shields.io/badge/Machine_Learning_on_Azure-Completed-1abc9c?style=for-the-badge&logo=microsoftazure" />
 </p>
 
-### Google Cloud
+### **Google Cloud**
 <p align="center">
   <img src="https://img.shields.io/badge/Responsible_AI-Completed-c0392b?style=for-the-badge&logo=googlecloud" />
   <img src="https://img.shields.io/badge/Large_Language_Models-Completed-c0392b?style=for-the-badge&logo=googlecloud" />
   <img src="https://img.shields.io/badge/Generative_AI-Completed-c0392b?style=for-the-badge&logo=googlecloud" />
 </p>
 
-### HackerRank
+### **HackerRank**
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Basic-2980b9?style=for-the-badge&logo=hackerrank" />
   <img src="https://img.shields.io/badge/Python-Basic-2980b9?style=for-the-badge&logo=hackerrank" />
@@ -106,21 +146,7 @@
 
 ---
 
-## 🚀 **Projects & Repositories**
-<div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-
-<a href="https://github.com/SRINIVASBN/1RN22AI124"><img src="https://img.shields.io/badge/📂%201RN22AI124-View%20Repo-ff69b4?style=for-the-badge&logo=github" /></a>
-<a href="https://github.com/SRINIVASBN/portfolio-"><img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Repo-00bfff?style=for-the-badge&logo=github" /></a>
-<a href="https://github.com/SRINIVASBN/Dynamic-Weather-App"><img src="https://img.shields.io/badge/🌤%20Dynamic%20Weather%20App-View%20Repo-ff4500?style=for-the-badge&logo=github" /></a>
-<a href="https://github.com/SRINIVASBN/Stock-Market"><img src="https://img.shields.io/badge/📈%20Stock%20Market-View%20Repo-32cd32?style=for-the-badge&logo=github" /></a>
-<a href="https://github.com/SRINIVASBN/srini"><img src="https://img.shields.io/badge/📂%20srini-View%20Repo-9932cc?style=for-the-badge&logo=github" /></a>
-<a href="https://github.com/SRINIVASBN/job-screening-ai"><img src="https://img.shields.io/badge/🤖%20Job%20Screening%20AI-View%20Repo-ff8c00?style=for-the-badge&logo=github" /></a>
-
-</div>
-
----
-
-## 🔥 **GitHub Stats**
+## 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SRINIVASBN&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SRINIVASBN&theme=radical" />
@@ -128,14 +154,14 @@
 
 ---
 
-## 📊 **Top Languages**
+## 📊 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASBN&layout=compact&theme=radical&langs_count=10&hide=php" />
 </p>
 
 ---
 
-## 🏅 **LeetCode Stats**
+## 🏅 LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/u/srinivas_bn/">
     <img src="https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap" />
@@ -145,5 +171,5 @@
 ---
 
 <p align="center">
-  <h2>✨ Thanks for visiting! Let's build something amazing together! 💫 ✨</h2>
+  <h2>✨ Thanks for visiting! Let’s build something amazing together! 💫 ✨</h2>
 </p>

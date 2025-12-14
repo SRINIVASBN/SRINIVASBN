@@ -75,6 +75,12 @@
 ---
 
 ## 🏅 **Certifications & Achievements**
+### **Oracle**
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_Certified_Foundations_Associate-Completed-red?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025_AI_Foundations_Associate-Completed-red?style=for-the-badge&logo=oracle" />
+</p>
+
 
 ### Microsoft
 <p align="center">

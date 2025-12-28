@@ -32,43 +32,10 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ---
 
+| 🔗 Connect With Me | 🔑 Core Skills |
+|-------------------|--------------|
+| 📧 **Email:** srinidell2002@gmail.com <br> 💼 **LinkedIn:** linkedin.com/in/srinivas-bn <br> 🧠 **LeetCode:** leetcode.com/u/srinivas_bn <br> 💻 **GitHub:** github.com/SRINIVASBN | **Languages:** Java, Python, JavaScript, SQL <br> **Backend:** Node.js, Express.js, REST APIs <br> **Frontend:** React, HTML, CSS, Material UI <br> **Databases:** MongoDB, MySQL <br> **Core CS:** DSA, DBMS, OS, Computer Networks <br> **Cloud & AI:** Azure AI, Google GenAI, ML <br> **Tools:** Git, GitHub, VS Code, Postman |
 
-<div style="margin-left: 40px;">
-
-<table style="width: 100%; border-spacing: 20px;">
-<tr>
-
-<td width="46%" valign="top">
-
-## 🔗 Connect With Me
-
-- 📧 <span style="font-weight:600; text-decoration: underline;">Email:</span> <a href="mailto:srinidell2002@gmail.com">srinidell2002@gmail.com</a>
-- 💼 <span style="font-weight:600; text-decoration: underline;">LinkedIn:</span> <a href="https://www.linkedin.com/in/srinivas-bn-8771112a8">linkedin.com/in/srinivas-bn</a>
-- 🧠 <span style="font-weight:600; text-decoration: underline;">LeetCode:</span> <a href="https://leetcode.com/u/srinivas_bn/">leetcode.com/u/srinivas_bn</a>
-- 💻 <span style="font-weight:600; text-decoration: underline;">GitHub:</span> <a href="https://github.com/SRINIVASBN">github.com/SRINIVASBN</a>
-
-</td>
-
-<td width="8%"></td>
-
-<td width="46%" valign="top">
-
-## 🔑 Core Skills
-
-<span style="font-weight:600; text-decoration: underline; font-size:1.05em;">Languages:</span> Java, Python, JavaScript, SQL  
-<span style="font-weight:600; text-decoration: underline; font-size:1.05em;">Backend:</span> Node.js, Express.js, REST APIs  
-<span style="font-weight:600; text-decoration: underline; font-size:1.05em;">Frontend:</span> React, HTML, CSS, Material UI  
-<span style="font-weight:600; text-decoration: underline; font-size:1.05em;">Databases:</span> MongoDB, MySQL  
-<span style="font-weight:600; text-decoration: underline; font-size:1.05em;">Core CS:</span> DSA, DBMS, OS, Computer Networks  
-<span style="font-weight:600; text-decoration: underline; font-size:1.05em;">Cloud & AI:</span> Azure AI, Google GenAI, ML  
-<span style="font-weight:600; text-decoration: underline; font-size:1.05em;">Tools:</span> Git, GitHub, VS Code, Postman  
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 
 

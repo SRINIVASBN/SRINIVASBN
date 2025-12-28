@@ -159,8 +159,8 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 ## 🔥 GitHub & LeetCode Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRINIVASBN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIVASBN&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRINIVASBN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=SRINIVASBN&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -168,15 +168,14 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVASBN&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVASBN&theme=tokyonight&hide_border=true&area=true" />
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/srinivas_bn/">
-    <img width="60%" src="https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap" />
+    <img width="60%" src="https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap&border=0" />
   </a>
 </p>
-
 ---
 
 <p align="center">

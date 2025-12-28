@@ -33,10 +33,10 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 ---
 
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🔗 Connect With Me</h3>
 
@@ -47,9 +47,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 </td>
 
-<td width="16%"></td>
-
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🔑 Core Skills</h3>
 
@@ -65,7 +63,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 </tr>
 </table>
->
+
 
 
 ---

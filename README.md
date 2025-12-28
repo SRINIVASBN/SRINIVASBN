@@ -37,7 +37,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 <div style="margin-left: 40px;">
 
-<table style="width: 100%; border-spacing: 50px;">
+<table style="width: 100%; border-spacing:20px;">
 <tr>
 
 <td width="48%" valign="top">

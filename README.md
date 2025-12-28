@@ -32,43 +32,12 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ---
 
-<div style="margin-left: 40px;">
 
-<table style="width: 100%; border-spacing: 20px;">
-<tr>
-<td width="42%" valign="top">
-
-## 🔗 Connect With Me
-
-- 📧 **Email:** [srinidell2002@gmail.com](mailto:srinidell2002@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/srinivas-bn](https://www.linkedin.com/in/srinivas-bn-8771112a8)  
-- 🧠 **LeetCode:** [leetcode.com/u/srinivas_bn](https://leetcode.com/u/srinivas_bn/)  
-- 💻 **GitHub:** [github.com/SRINIVASBN](https://github.com/SRINIVASBN)
-
-</td>
-<td width="16%"></td>
-<td width="42%" valign="top">
-
-## 🔑 Core Skills
-
-**Languages:** Java, Python, JavaScript, SQL  
-**Backend:** Node.js, Express.js, REST APIs  
-**Frontend:** React, HTML, CSS, Material UI  
-**Databases:** MongoDB, MySQL  
-**Core CS:** DSA, DBMS, OS, Computer Networks  
-**Cloud & AI:** Azure AI, Google Generative AI, ML  
-**Tools:** Git, GitHub, VS Code, Postman
-
-</td>
-</tr>
-</table>
-
-</div>
 
 
 <div style="margin-left: 40px;">
 
-<table style="width: 100%; border-spacing: 10px;">
+<table style="width: 100%; border-spacing: 50px;">
 <tr>
 
 <td width="48%" valign="top">

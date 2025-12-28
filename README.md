@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100">
 </div>
 
 <!-- Typing Effect Tagline -->
@@ -35,7 +35,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 <div style="padding: 0 40px;">
 
-<table style="width: 100%; border-spacing: 20px;">
+<table style="width: 100%; border-spacing: 20px; margin-left: 40px;">
 <tr>
 <td width="42%" valign="top">
 

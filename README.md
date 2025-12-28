@@ -32,24 +32,22 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ---
 
-
-
 <div style="margin-left: 40px;">
 
 <table style="width: 100%; border-spacing: 20px;">
 <tr>
-<td width="42%" valign="top">
+<td width="42%" valign="top" style="white-space: nowrap;">
 
 ## 🔗 Connect With Me
 
-- 📧 **Email:** [srinidell2002@gmail.com](mailto:srinidell2002@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/srinivas-bn](https://www.linkedin.com/in/srinivas-bn-8771112a8)  
-- 🧠 **LeetCode:** [leetcode.com/u/srinivas_bn](https://leetcode.com/u/srinivas_bn/)  
+- 📧 **Email:** [srinidell2002@gmail.com](mailto:srinidell2002@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/srinivas-bn](https://www.linkedin.com/in/srinivas-bn-8771112a8)
+- 🧠 **LeetCode:** [leetcode.com/u/srinivas_bn](https://leetcode.com/u/srinivas_bn/)
 - 💻 **GitHub:** [github.com/SRINIVASBN](https://github.com/SRINIVASBN)
 
 </td>
 <td width="16%"></td>
-<td width="42%" valign="top">
+<td width="42%" valign="top" style="white-space: nowrap;">
 
 ## 🔑 Core Skills
 
@@ -66,7 +64,6 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 </table>
 
 </div>
-
 
 
 

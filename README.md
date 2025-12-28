@@ -41,10 +41,12 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 <h2 style="font-size: 1.25em;">🔗 Connect With Me</h2>
 
-- 📧 **Email:** <a href="mailto:srinidell2002@gmail.com">srinidell2002@gmail.com</a>  
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/srinivas-bn-8771112a8">linkedin.com/in/srinivas-bn</a>  
-- 🧠 **LeetCode:** <a href="https://leetcode.com/u/srinivas_bn/">leetcode.com/u/srinivas_bn</a>  
-- 💻 **GitHub:** <a href="https://github.com/SRINIVASBN">github.com/SRINIVASBN</a>
+<ul>
+  <li>📧 <strong>Email:</strong> <a href="mailto:srinidell2002@gmail.com">srinidell2002@gmail.com</a></li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/srinivas-bn-8771112a8">linkedin.com/in/srinivas-bn</a></li>
+  <li>🧠 <strong>LeetCode:</strong> <a href="https://leetcode.com/u/srinivas_bn/">leetcode.com/u/srinivas_bn</a></li>
+  <li>💻 <strong>GitHub:</strong> <a href="https://github.com/SRINIVASBN">github.com/SRINIVASBN</a></li>
+</ul>
 
 </td>
 
@@ -54,13 +56,40 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 <h2 style="font-size: 1.25em;">🔑 Core Skills</h2>
 
-**Languages:** Java, Python, JavaScript, SQL  
-**Backend:** Node.js, Express.js, REST APIs  
-**Frontend:** React, HTML, CSS, Material UI  
-**Databases:** MongoDB, MySQL  
-**Core CS:** DSA, DBMS, OS, Computer Networks  
-**Cloud & AI:** Azure AI, Google GenAI, ML  
-**Tools:** Git, GitHub, VS Code, Postman  
+<div>
+  <span style="font-weight:600; font-size:1.05em;">Languages:</span>
+  <span> Java, Python, JavaScript, SQL</span>
+</div>
+
+<div>
+  <span style="font-weight:600; font-size:1.05em;">Backend:</span>
+  <span> Node.js, Express.js, REST APIs</span>
+</div>
+
+<div>
+  <span style="font-weight:600; font-size:1.05em;">Frontend:</span>
+  <span> React, HTML, CSS, Material UI</span>
+</div>
+
+<div>
+  <span style="font-weight:600; font-size:1.05em;">Databases:</span>
+  <span> MongoDB, MySQL</span>
+</div>
+
+<div>
+  <span style="font-weight:600; font-size:1.05em;">Core CS:</span>
+  <span> DSA, DBMS, OS, Computer Networks</span>
+</div>
+
+<div>
+  <span style="font-weight:600; font-size:1.05em;">Cloud & AI:</span>
+  <span> Azure AI, Google GenAI, ML</span>
+</div>
+
+<div>
+  <span style="font-weight:600; font-size:1.05em;">Tools:</span>
+  <span> Git, GitHub, VS Code, Postman</span>
+</div>
 
 </td>
 
@@ -68,6 +97,13 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 </table>
 
 </div>
+
+
+
+
+
+
+
 
 ---
 

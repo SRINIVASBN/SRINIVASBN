@@ -65,6 +65,46 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 </div>
 
+
+<div style="margin-left: 40px;">
+
+<table style="width: 100%; border-spacing: 10px;">
+<tr>
+
+<td width="48%" valign="top">
+
+## 🔗 Connect With Me
+
+- 📧 **Email:** <a href="mailto:srinidell2002@gmail.com">srinidell2002@gmail.com</a>
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/srinivas-bn-8771112a8">linkedin.com/in/srinivas-bn</a>
+- 🧠 **LeetCode:** <a href="https://leetcode.com/u/srinivas_bn/">leetcode.com/u/srinivas_bn</a>
+- 💻 **GitHub:** <a href="https://github.com/SRINIVASBN">github.com/SRINIVASBN</a>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+## 🔑 Core Skills
+
+**Languages:** Java, Python, JavaScript, SQL  
+**Backend:** Node.js, Express.js, REST APIs  
+**Frontend:** React, HTML, CSS, Material UI  
+**Databases:** MongoDB, MySQL  
+**Core CS:** DSA, DBMS, OS, Computer Networks  
+**Cloud & AI:** Azure AI, Google Generative AI, ML  
+**Tools:** Git, GitHub, VS Code, Postman  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
 ---
 
 ## 🚀 Featured Projects

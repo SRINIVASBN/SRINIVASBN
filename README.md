@@ -12,22 +12,13 @@
 
 ## 👨‍💻 About Me
 
-I’m **Srinivas B N**, a **Full Stack MERN Developer** and **CSE (AI & ML) undergraduate** at **RNS Institute of Technology (VTU)**, graduating in **2026**.
+I'm **Srinivas B N**, a **Full Stack MERN Developer** and **CSE (AI & ML) undergraduate** at **RNS Institute of Technology (VTU)**, graduating in **2026**.
 
 I build **end-to-end web applications**, design **RESTful APIs**, and work on **database-backed backend systems** using the MERN stack. Alongside full-stack development, I actively explore **AI/ML and applied deep learning**, focusing on **real-world use cases** rather than theory alone.
 
-I’m currently strengthening my **Java + Data Structures**, **system design fundamentals**, and **advanced MERN concepts** to prepare for **software engineering roles**. I’m particularly interested in **backend development, scalable systems, and AI-enabled products**.
+I'm currently strengthening my **Java + Data Structures**, **system design fundamentals**, and **advanced MERN concepts** to prepare for **software engineering roles**. I'm particularly interested in **backend development, scalable systems, and AI-enabled products**.
 
-I’m open to **internships and full-time opportunities** where I can learn, contribute, and grow as a software engineer.
-
----
-
-## 🔗 Connect With Me
-
-- 📧 **Email:** srinidell2002@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/srinivas-bn-8771112a8  
-- 🧠 **LeetCode:** https://leetcode.com/u/srinivas_bn/  
-- 💻 **GitHub:** https://github.com/SRINIVASBN  
+I'm open to **internships and full-time opportunities** where I can learn, contribute, and grow as a software engineer.
 
 ---
 
@@ -36,83 +27,111 @@ I’m open to **internships and full-time opportunities** where I can learn, con
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,javascript,html,css,mysql,git,github,vscode,postman&theme=light" />
 </p>
 
-
-
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🔗 Connect With Me
+
+- 📧 **Email:** srinidell2002@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/srinivas-bn](https://www.linkedin.com/in/srinivas-bn-8771112a8)  
+- 🧠 **LeetCode:** [leetcode.com/u/srinivas_bn](https://leetcode.com/u/srinivas_bn/)  
+- 💻 **GitHub:** [github.com/SRINIVASBN](https://github.com/SRINIVASBN)
+
+</td>
+<td width="50%" valign="top">
 
 ## 🔑 Core Skills
 
 **Languages:** Java, Python, JavaScript, SQL  
 **Backend:** Node.js, Express.js, REST APIs  
-**Frontend:** React, HTML, CSS  
+**Frontend:** React, HTML, CSS, Material UI  
 **Databases:** MongoDB, MySQL  
 **Core CS:** DSA, DBMS, OS, Computer Networks  
-**Cloud & AI:** Azure AI, Google Generative AI, ML Concepts  
-**Tools:** Git, GitHub, VS Code, Postman  
+**Cloud & AI:** Azure AI, Google Generative AI, ML  
+**Tools:** Git, GitHub, VS Code, Postman
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects (Recruiter-Focused)
+## 🚀 Featured Projects
 
-### 📈 Stock Market Platform
-- Full-stack web application for stock tracking and basic portfolio analysis  
-- Implemented REST APIs and real-time data fetching  
-- Focused on clean UI and scalable backend structure  
-**Tech:** JavaScript, APIs, Data Visualization  
-🔗 https://github.com/SRINIVASBN/Stock-Market  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 TradeGuru - Stock Trading Platform
+- Full-stack MERN application for stock trading
+- RESTful APIs with Express & MongoDB
+- Real-time market data integration
+- Interactive dashboard with Material UI
+- Buy/sell functionality with order management
+- Holdings and positions tracking
+
+**Tech:** MongoDB, Express, React, Node.js, Material UI
+
+🔗 [View Project](https://github.com/SRINIVASBN/TradeGuru-Stock-Trading-Platform)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Resume Screening AI Agent
+- AI-powered resume screening system
+- Local Ollama LLM + SBERT embeddings
+- Intelligent multi-layer ranking algorithm
+- Skill detection & experience evaluation
+- Automated candidate shortlisting
+- CSV export with detailed insights
+
+**Tech:** Python, Streamlit, Ollama, NLP, NumPy
+
+🔗 [View Project](https://github.com/SRINIVASBN/Resume-Screening-AI-Agent)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌤️ Dynamic Weather App
+- Real-time weather application
+- OpenWeatherMap API integration
+- Dynamic weather-based backgrounds
+- Glassmorphism UI design
+- Animated glowing borders
+- Responsive and mobile-friendly
+
+**Tech:** JavaScript, HTML, CSS, OpenWeatherMap API
+
+🔗 [View Project](https://github.com/SRINIVASBN/Dynamic-Weather-App) | [Live Demo](https://my-weather-app-rnsit.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Malware Detection System
+- Deep learning-based malware classifier
+- Binary-to-grayscale image conversion
+- MobileNet-based CNN architecture
+- Static analysis for zero-day detection
+- High accuracy malware identification
+- Scalable detection pipeline
+
+**Tech:** Python, TensorFlow, Deep Learning, CNN
+
+🔗 [View Project](https://github.com/SRINIVASBN/Malware-Detection-using-Machine-Learning)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 Job Screening AI
-- AI-based system to analyze resumes and job descriptions  
-- Automated candidate shortlisting using NLP and scoring logic  
-- Reduced manual screening effort through ML-based evaluation  
-**Tech:** Python, NLP, Machine Learning  
-🔗 https://github.com/SRINIVASBN/job-screening-ai  
-
----
-
-### 🛡 Malware Detection System
-- Deep learning system converting executable binaries into grayscale images  
-- Classified malware using a **MobileNet-based CNN**  
-- Static analysis approach for detecting obfuscated and zero-day malware  
-**Tech:** Python, TensorFlow, Deep Learning  
-🔗 https://github.com/SRINIVASBN/Malware-Detection-using-Machine-Learning  
-
----
-
-### Other Repositories
-- 🌤 Dynamic Weather App – https://github.com/SRINIVASBN/Dynamic-Weather-App  
-- 🌐 Portfolio Website – https://github.com/SRINIVASBN/portfolio-  
-- 📂 Academic / Practice Repos – https://github.com/SRINIVASBN  
-
----
-
-## 🏅 Certifications & Achievements
-
-### **Oracle**
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle_Certified_Foundations_Associate-Completed-red?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025_AI_Foundations_Associate-Completed-red?style=for-the-badge&logo=oracle" />
-</p>
-
-### **Microsoft**
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure_AI_Services-Completed-1abc9c?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/Generative_AI_on_Azure-Completed-1abc9c?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/Machine_Learning_on_Azure-Completed-1abc9c?style=for-the-badge&logo=microsoftazure" />
-</p>
-
-### **Google Cloud**
-<p align="center">
-  <img src="https://img.shields.io/badge/Responsible_AI-Completed-c0392b?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/Large_Language_Models-Completed-c0392b?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/Generative_AI-Completed-c0392b?style=for-the-badge&logo=googlecloud" />
-</p>
-
----
-
-## 🔍 What I’m Looking For
+## 🔍 What I'm Looking For
 - Software Engineer Intern / Full-Time (2026)
 - Backend / Full Stack roles
 - AI-enabled product teams
@@ -135,5 +154,5 @@ I’m open to **internships and full-time opportunities** where I can learn, con
 ---
 
 <p align="center">
-  <h2>✨ Thanks for visiting — let’s build something impactful together ✨</h2>
+  <h2>✨ Thanks for visiting — let's build something impactful together ✨</h2>
 </p>

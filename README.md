@@ -84,6 +84,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 - Holdings and positions tracking
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00D9FF&width=435&lines=Tech%3A+MongoDB%2C+Express%2C+React%2C+Node.js%2C+Material+UI" alt="Tech Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&width=435&lines=Built+With%3A+MongoDB%2C+Express%2C+React%2C+Node.js%2C+Material+UI" alt="Built With Stack" />
 
 🔗 [View Project](https://github.com/SRINIVASBN/TradeGuru-Stock-Trading-Platform)
 

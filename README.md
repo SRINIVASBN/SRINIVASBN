@@ -1,6 +1,16 @@
 <!-- HEADER with Animated Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20I'm%20SRINIVAS%20BN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header" />
+  
+  <div style="margin-top: -120px;">
+    <h1 style="font-size: 50px;">
+      Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="60"> I'm SRINIVAS BN
+    </h1>
+    <p style="font-size: 20px; color: #fff;">
+      Full Stack MERN Developer | AI Enthusiast
+    </p>
+  </div>
+  
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40">
 </div>
 
@@ -29,6 +39,8 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 </p>
 
 ---
+
+<div style="margin-left: 5%; margin-right: 5%;">
 
 <table style="width: 100%; border-spacing: 20px;">
 <tr>
@@ -59,9 +71,13 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
+
+<div style="margin-left: 5%; margin-right: 5%;">
 
 <table style="width: 100%; border-spacing: 20px;">
 <tr>
@@ -135,6 +151,8 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🔍 What I'm Looking For
@@ -149,13 +167,28 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRINIVASBN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/SRINIVASBN)
+<a href="https://github.com/SRINIVASBN">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRINIVASBN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASBN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SRINIVASBN&theme=tokyonight&hide_border=true)](https://github.com/SRINIVASBN)
+<br/><br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASBN&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SRINIVASBN)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=SRINIVASBN&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/srinivas_bn/)
+<br/><br/>
+
+<a href="https://github.com/SRINIVASBN">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVASBN&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/srinivas_bn/">
+  <img src="https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
 </div>
 

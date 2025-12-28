@@ -1,6 +1,7 @@
 <!-- HEADER with Animated Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋%20I'm%20SRINIVAS%20BN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20I'm%20SRINIVAS%20BN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" />
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60">
 </div>
 
 <!-- Typing Effect Tagline -->
@@ -29,9 +30,9 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ---
 
-<table width="100%">
+<table style="width: 100%; border-spacing: 20px;">
 <tr>
-<td width="48%" valign="top">
+<td width="42%" valign="top">
 
 ## 🔗 Connect With Me
 
@@ -41,8 +42,8 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 - 💻 **GitHub:** [github.com/SRINIVASBN](https://github.com/SRINIVASBN)
 
 </td>
-<td width="4%"></td>
-<td width="48%" valign="top">
+<td width="16%"></td>
+<td width="42%" valign="top">
 
 ## 🔑 Core Skills
 
@@ -62,9 +63,9 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table style="width: 100%; border-spacing: 20px;">
 <tr>
-<td width="48%" valign="top">
+<td width="42%" valign="top">
 
 ### 📈 TradeGuru - Stock Trading Platform
 - Full-stack MERN application for stock trading
@@ -79,8 +80,8 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 🔗 [View Project](https://github.com/SRINIVASBN/TradeGuru-Stock-Trading-Platform)
 
 </td>
-<td width="4%"></td>
-<td width="48%" valign="top">
+<td width="16%"></td>
+<td width="42%" valign="top">
 
 ### 🤖 Resume Screening AI Agent
 - AI-powered resume screening system
@@ -97,10 +98,10 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 </td>
 </tr>
 
-<tr><td colspan="3" height="20"></td></tr>
+<tr><td colspan="3" height="30"></td></tr>
 
 <tr>
-<td width="48%" valign="top">
+<td width="42%" valign="top">
 
 ### 🌤️ Dynamic Weather App
 - Real-time weather application
@@ -115,8 +116,8 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 🔗 [View Project](https://github.com/SRINIVASBN/Dynamic-Weather-App) | [Live Demo](https://my-weather-app-rnsit.netlify.app)
 
 </td>
-<td width="4%"></td>
-<td width="48%" valign="top">
+<td width="16%"></td>
+<td width="42%" valign="top">
 
 ### 🛡️ Malware Detection System
 - Deep learning-based malware classifier
@@ -146,27 +147,22 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ## 🔥 GitHub & LeetCode Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SRINIVASBN&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIVASBN&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASBN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SRINIVASBN&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<p align="center">
-  <a href="https://leetcode.com/u/srinivas_bn/">
-    <img width="60%" src="https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIVASBN&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASBN&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+
+<a href="https://leetcode.com/u/srinivas_bn/">
+  <img src="https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+</div>
 
 ---
 
 <p align="center">
   <h2>✨ Thanks for visiting — let's build something impactful together ✨</h2>
 </p>
-```
-
-
-

@@ -38,35 +38,34 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 <table style="width: 100%; border-spacing: 20px;">
 <tr>
-<td width="42%" valign="top">
+<td width="42%" valign="top" style="min-width: 400px;">
 
 ## 🔗 Connect With Me
 
-- 📧 **Email:** [srinidell2002@gmail.com](mailto:srinidell2002@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/srinivas-bn](https://www.linkedin.com/in/srinivas-bn-8771112a8)  
-- 🧠 **LeetCode:** [leetcode.com/u/srinivas_bn](https://leetcode.com/u/srinivas_bn/)  
-- 💻 **GitHub:** [github.com/SRINIVASBN](https://github.com/SRINIVASBN)
+<span style="display: block; white-space: nowrap;">📧 **Email:** [srinidell2002@gmail.com](mailto:srinidell2002@gmail.com)</span>
+<span style="display: block; white-space: nowrap;">💼 **LinkedIn:** [linkedin.com/in/srinivas-bn](https://www.linkedin.com/in/srinivas-bn-8771112a8)</span>
+<span style="display: block; white-space: nowrap;">🧠 **LeetCode:** [leetcode.com/u/srinivas_bn](https://leetcode.com/u/srinivas_bn/)</span>
+<span style="display: block; white-space: nowrap;">💻 **GitHub:** [github.com/SRINIVASBN](https://github.com/SRINIVASBN)</span>
 
 </td>
 <td width="16%"></td>
-<td width="42%" valign="top">
+<td width="42%" valign="top" style="min-width: 400px;">
 
 ## 🔑 Core Skills
 
-**Languages:** Java, Python, JavaScript, SQL  
-**Backend:** Node.js, Express.js, REST APIs  
-**Frontend:** React, HTML, CSS, Material UI  
-**Databases:** MongoDB, MySQL  
-**Core CS:** DSA, DBMS, OS, Computer Networks  
-**Cloud & AI:** Azure AI, Google Generative AI, ML  
-**Tools:** Git, GitHub, VS Code, Postman
+<span style="display: block; white-space: nowrap;">**Languages:** Java, Python, JavaScript, SQL</span>
+<span style="display: block; white-space: nowrap;">**Backend:** Node.js, Express.js, REST APIs</span>
+<span style="display: block; white-space: nowrap;">**Frontend:** React, HTML, CSS, Material UI</span>
+<span style="display: block; white-space: nowrap;">**Databases:** MongoDB, MySQL</span>
+<span style="display: block; white-space: nowrap;">**Core CS:** DSA, DBMS, OS, Computer Networks</span>
+<span style="display: block; white-space: nowrap;">**Cloud & AI:** Azure AI, Google Generative AI, ML</span>
+<span style="display: block; white-space: nowrap;">**Tools:** Git, GitHub, VS Code, Postman</span>
 
 </td>
 </tr>
 </table>
 
 </div>
-
 
 
 ---

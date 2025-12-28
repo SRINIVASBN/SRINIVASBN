@@ -32,12 +32,42 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ---
 
-| 🔗 Connect With Me | 🔑 Core Skills |
-|-------------------|--------------|
-| 📧 **Email:** srinidell2002@gmail.com <br> 💼 **LinkedIn:** linkedin.com/in/srinivas-bn <br> 🧠 **LeetCode:** leetcode.com/u/srinivas_bn <br> 💻 **GitHub:** github.com/SRINIVASBN | **Languages:** Java, Python, JavaScript, SQL <br> **Backend:** Node.js, Express.js, REST APIs <br> **Frontend:** React, HTML, CSS, Material UI <br> **Databases:** MongoDB, MySQL <br> **Core CS:** DSA, DBMS, OS, Computer Networks <br> **Cloud & AI:** Azure AI, Google GenAI, ML <br> **Tools:** Git, GitHub, VS Code, Postman |
+<div style="margin-left: 40px;">
 
+<table style="width: 100%; border-spacing: 20px;">
+<tr>
 
+<td width="46%" valign="top">
 
+<h2 style="font-size: 1.25em;">🔗 Connect With Me</h2>
+
+- 📧 **Email:** <a href="mailto:srinidell2002@gmail.com">srinidell2002@gmail.com</a>  
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/srinivas-bn-8771112a8">linkedin.com/in/srinivas-bn</a>  
+- 🧠 **LeetCode:** <a href="https://leetcode.com/u/srinivas_bn/">leetcode.com/u/srinivas_bn</a>  
+- 💻 **GitHub:** <a href="https://github.com/SRINIVASBN">github.com/SRINIVASBN</a>
+
+</td>
+
+<td width="8%"></td>
+
+<td width="46%" valign="top">
+
+<h2 style="font-size: 1.25em;">🔑 Core Skills</h2>
+
+**Languages:** Java, Python, JavaScript, SQL  
+**Backend:** Node.js, Express.js, REST APIs  
+**Frontend:** React, HTML, CSS, Material UI  
+**Databases:** MongoDB, MySQL  
+**Core CS:** DSA, DBMS, OS, Computer Networks  
+**Cloud & AI:** Azure AI, Google GenAI, ML  
+**Tools:** Git, GitHub, VS Code, Postman  
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 

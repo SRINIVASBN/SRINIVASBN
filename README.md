@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80">
 </div>
 
 <!-- Typing Effect Tagline -->
@@ -33,9 +33,9 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ---
 
-<div style="padding: 0 40px;">
+<div style="margin-left: 40px;">
 
-<table style="width: 100%; border-spacing: 20px; margin-left: 40px;">
+<table style="width: 100%; border-spacing: 20px;">
 <tr>
 <td width="42%" valign="top">
 
@@ -70,7 +70,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ## 🚀 Featured Projects
 
-<div style="padding: 0 40px;">
+<div style="margin-left: 40px;">
 
 <table style="width: 100%; border-spacing: 20px;">
 <tr>
@@ -84,7 +84,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 - Buy/sell functionality with order management
 - Holdings and positions tracking
 
-**Tech:** MongoDB, Express, React, Node.js, Material UI
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00D9FF&width=435&lines=Tech%3A+MongoDB%2C+Express%2C+React%2C+Node.js%2C+Material+UI" alt="Tech Stack" />
 
 🔗 [View Project](https://github.com/SRINIVASBN/TradeGuru-Stock-Trading-Platform)
 
@@ -100,7 +100,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 - Automated candidate shortlisting
 - CSV export with detailed insights
 
-**Tech:** Python, Streamlit, Ollama, NLP, NumPy
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00D9FF&width=435&lines=Tech%3A+Python%2C+Streamlit%2C+Ollama%2C+NLP%2C+NumPy" alt="Tech Stack" />
 
 🔗 [View Project](https://github.com/SRINIVASBN/Resume-Screening-AI-Agent)
 
@@ -120,7 +120,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 - Animated glowing borders
 - Responsive and mobile-friendly
 
-**Tech:** JavaScript, HTML, CSS, OpenWeatherMap API
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00D9FF&width=435&lines=Tech%3A+JavaScript%2C+HTML%2C+CSS%2C+OpenWeatherMap+API" alt="Tech Stack" />
 
 🔗 [View Project](https://github.com/SRINIVASBN/Dynamic-Weather-App) | [Live Demo](https://my-weather-app-rnsit.netlify.app)
 
@@ -136,7 +136,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 - High accuracy malware identification
 - Scalable detection pipeline
 
-**Tech:** Python, TensorFlow, Deep Learning, CNN
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00D9FF&width=435&lines=Tech%3A+Python%2C+TensorFlow%2C+Deep+Learning%2C+CNN" alt="Tech Stack" />
 
 🔗 [View Project](https://github.com/SRINIVASBN/Malware-Detection-using-Machine-Learning)
 

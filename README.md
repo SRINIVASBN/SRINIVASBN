@@ -1,10 +1,11 @@
-<!-- HEADER with Animated Banner -->
+<!-- HEADER with Animated Banner and Waving Hand -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋%20I'm%20SRINIVAS%20BN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20I'm%20SRINIVAS%20BN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  
+  <!-- Animated Waving Hand Overlay -->
+  <div style="margin-top: -120px; margin-bottom: 80px;">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="180">
+  </div>
 </div>
 
 <!-- Typing Effect Tagline -->
@@ -180,5 +181,5 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 ---
 
 <p align="center">
-  <h2>✨ Thanks for visiting <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40"> let's build something impactful together ✨</h2>
+  <h2>✨ Thanks for visiting <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100"> let's build something impactful together ✨</h2>
 </p>

@@ -1,17 +1,10 @@
 <!-- HEADER with Animated Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header" />
-  
-  <div style="margin-top: -120px;">
-    <h1 style="font-size: 50px;">
-      Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="60"> I'm SRINIVAS BN
-    </h1>
-    <p style="font-size: 20px; color: #fff;">
-      Full Stack MERN Developer | AI Enthusiast
-    </p>
-  </div>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋%20I'm%20SRINIVAS%20BN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80">
 </div>
 
 <!-- Typing Effect Tagline -->
@@ -40,7 +33,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ---
 
-<div style="margin-left: 5%; margin-right: 5%;">
+<div style="padding: 0 40px;">
 
 <table style="width: 100%; border-spacing: 20px;">
 <tr>
@@ -77,7 +70,7 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ## 🚀 Featured Projects
 
-<div style="margin-left: 5%; margin-right: 5%;">
+<div style="padding: 0 40px;">
 
 <table style="width: 100%; border-spacing: 20px;">
 <tr>
@@ -165,32 +158,24 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 ## 🔥 GitHub & LeetCode Stats
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRINIVASBN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIVASBN&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://github.com/SRINIVASBN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRINIVASBN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASBN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASBN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVASBN&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=SRINIVASBN&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/SRINIVASBN">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVASBN&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/srinivas_bn/">
-  <img src="https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/srinivas_bn/">
+    <img width="60%" src="https://leetcard.jacoblin.cool/srinivas_bn?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
 
 ---
 

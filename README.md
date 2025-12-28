@@ -36,37 +36,36 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 
 <div style="margin-left: 40px;">
 
-<table style="width: 100%; border-spacing: 15px; table-layout: fixed;">
+<table style="width: 100%; border-spacing: 20px;">
 <tr>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ## 🔗 Connect With Me
 
-<p style="white-space: nowrap; overflow: hidden;">📧 <strong>Email:</strong> <a href="mailto:srinidell2002@gmail.com">srinidell2002@gmail.com</a></p>
-<p style="white-space: nowrap; overflow: hidden;">💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/srinivas-bn-8771112a8">linkedin.com/in/srinivas-bn</a></p>
-<p style="white-space: nowrap; overflow: hidden;">🧠 <strong>LeetCode:</strong> <a href="https://leetcode.com/u/srinivas_bn/">leetcode.com/u/srinivas_bn</a></p>
-<p style="white-space: nowrap; overflow: hidden;">💻 <strong>GitHub:</strong> <a href="https://github.com/SRINIVASBN">github.com/SRINIVASBN</a></p>
+- 📧 **Email:** [srinidell2002@gmail.com](mailto:srinidell2002@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/srinivas-bn](https://www.linkedin.com/in/srinivas-bn-8771112a8)  
+- 🧠 **LeetCode:** [leetcode.com/u/srinivas_bn](https://leetcode.com/u/srinivas_bn/)  
+- 💻 **GitHub:** [github.com/SRINIVASBN](https://github.com/SRINIVASBN)
 
 </td>
-<td width="10%"></td>
-<td width="45%" valign="top">
+<td width="16%"></td>
+<td width="42%" valign="top">
 
 ## 🔑 Core Skills
 
-<p style="white-space: nowrap; overflow: hidden;"><strong>Languages:</strong> Java, Python, JavaScript, SQL</p>
-<p style="white-space: nowrap; overflow: hidden;"><strong>Backend:</strong> Node.js, Express.js, REST APIs</p>
-<p style="white-space: nowrap; overflow: hidden;"><strong>Frontend:</strong> React, HTML, CSS, Material UI</p>
-<p style="white-space: nowrap; overflow: hidden;"><strong>Databases:</strong> MongoDB, MySQL</p>
-<p style="white-space: nowrap; overflow: hidden;"><strong>Core CS:</strong> DSA, DBMS, OS, Computer Networks</p>
-<p style="white-space: nowrap; overflow: hidden;"><strong>Cloud & AI:</strong> Azure AI, Google Generative AI, ML</p>
-<p style="white-space: nowrap; overflow: hidden;"><strong>Tools:</strong> Git, GitHub, VS Code, Postman</p>
+**Languages:** Java, Python, JavaScript, SQL  
+**Backend:** Node.js, Express.js, REST APIs  
+**Frontend:** React, HTML, CSS, Material UI  
+**Databases:** MongoDB, MySQL  
+**Core CS:** DSA, DBMS, OS, Computer Networks  
+**Cloud & AI:** Azure AI, Google Generative AI, ML  
+**Tools:** Git, GitHub, VS Code, Postman
 
 </td>
 </tr>
 </table>
 
 </div>
-
 
 
 

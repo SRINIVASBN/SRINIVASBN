@@ -33,39 +33,39 @@ I'm open to **internships and full-time opportunities** where I can learn, contr
 ---
 
 
-
-<div style="margin-left: 40px;">
-
-<table style="width: 100%; border-spacing: 20px;">
+<table>
 <tr>
-<td width="42%" valign="top" style="min-width: 400px;">
 
-## 🔗 Connect With Me
+<td width="45%" valign="top">
 
-<span style="display: block; white-space: nowrap;">📧 **Email:** [srinidell2002@gmail.com](mailto:srinidell2002@gmail.com)</span>
-<span style="display: block; white-space: nowrap;">💼 **LinkedIn:** [linkedin.com/in/srinivas-bn](https://www.linkedin.com/in/srinivas-bn-8771112a8)</span>
-<span style="display: block; white-space: nowrap;">🧠 **LeetCode:** [leetcode.com/u/srinivas_bn](https://leetcode.com/u/srinivas_bn/)</span>
-<span style="display: block; white-space: nowrap;">💻 **GitHub:** [github.com/SRINIVASBN](https://github.com/SRINIVASBN)</span>
+<h3>🔗 Connect With Me</h3>
 
-</td>
-<td width="16%"></td>
-<td width="42%" valign="top" style="min-width: 400px;">
-
-## 🔑 Core Skills
-
-<span style="display: block; white-space: nowrap;">**Languages:** Java, Python, JavaScript, SQL</span>
-<span style="display: block; white-space: nowrap;">**Backend:** Node.js, Express.js, REST APIs</span>
-<span style="display: block; white-space: nowrap;">**Frontend:** React, HTML, CSS, Material UI</span>
-<span style="display: block; white-space: nowrap;">**Databases:** MongoDB, MySQL</span>
-<span style="display: block; white-space: nowrap;">**Core CS:** DSA, DBMS, OS, Computer Networks</span>
-<span style="display: block; white-space: nowrap;">**Cloud & AI:** Azure AI, Google Generative AI, ML</span>
-<span style="display: block; white-space: nowrap;">**Tools:** Git, GitHub, VS Code, Postman</span>
+📧 <b>Email:</b> <a href="mailto:srinidell2002@gmail.com">srinidell2002@gmail.com</a><br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/srinivas-bn-8771112a8">linkedin.com/in/srinivas-bn</a><br>
+🧠 <b>LeetCode:</b> <a href="https://leetcode.com/u/srinivas_bn/">leetcode.com/u/srinivas_bn</a><br>
+💻 <b>GitHub:</b> <a href="https://github.com/SRINIVASBN">github.com/SRINIVASBN</a>
 
 </td>
+
+<td width="10%"></td>
+
+<td width="45%" valign="top">
+
+<h3>🔑 Core Skills</h3>
+
+<b>Languages:</b> Java, Python, JavaScript, SQL<br>
+<b>Backend:</b> Node.js, Express.js, REST APIs<br>
+<b>Frontend:</b> React, HTML, CSS, Material UI<br>
+<b>Databases:</b> MongoDB, MySQL<br>
+<b>Core CS:</b> DSA, DBMS, OS, Computer Networks<br>
+<b>Cloud & AI:</b> Azure AI, Google Generative AI, ML<br>
+<b>Tools:</b> Git, GitHub, VS Code, Postman
+
+</td>
+
 </tr>
 </table>
-
-</div>
+>
 
 
 ---
